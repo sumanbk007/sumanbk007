@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suman B.K.
 
-### Full-Stack Software Engineer Next.js · React · Node.js · TypeScript · AI
+### Full-Stack Software Engineer · React · Node.js · TypeScript · AI
 
 3+ years of production experience building SaaS platforms, real-time applications, third-party integrations, and AI-powered products.
 
